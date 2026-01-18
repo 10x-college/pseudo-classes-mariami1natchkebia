@@ -90,7 +90,13 @@
 
 დაარქვით ფაილს სახელი: preview.png
 
+<img width="1920" height="919" alt="preview" src="https://github.com/user-attachments/assets/2824fd5f-7b88-42ce-98a0-16b93c00ca09" />
+<img width="1017" height="295" alt="preview1" src="https://github.com/user-attachments/assets/e2f06dec-226e-420b-a83a-2f32b5f26605" />
+
+
 ატვირთეთ ეს სურათი თქვენს GitHub რეპოზიტორიაში, კოდის ფაილებთან ერთად.
+
+https://mariami1natchkebia.github.io/pseudo-classes/homework-11(mariamnatchkebia)/
 
 ჩასვით სურათი README.md ფაილში.
 
